@@ -1,0 +1,1 @@
+# guardduty-lamdba-slack
